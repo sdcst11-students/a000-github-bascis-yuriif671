@@ -1,6 +1,9 @@
-This is my first GitHub assignment 
+<<<<<<< HEAD
 
-# :wave: The Basics of GitHub 
+First assignment \m/
+
+test test
+=======
 
 ## 🤓 Course overview and learning outcomes 
 
